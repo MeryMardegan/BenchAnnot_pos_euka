@@ -1,0 +1,36 @@
+# env
+.venv/
+venv/
+env/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# big data
+*.tar.gz
+*.gz
+*.zip
+
+# genome files
+*.fasta
+*.fa
+*.fna
+*.faa
+*.gff
+*.gff3
+*.gtf
+*.tsv
+
+# outputs from tools
+.emapper.*
+*.emapper.*
+*.emapper copy.*
+*.kofam.txt
+
+# Another common output file
+*.txt
+*.csv

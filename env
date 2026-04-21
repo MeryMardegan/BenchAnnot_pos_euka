@@ -1,0 +1,6 @@
+# Bibliotecas
+%pip install biopython
+%pip install matplotlib
+%pip install matplotlib-venn
+%pip install plotly
+%pip install nbformat
